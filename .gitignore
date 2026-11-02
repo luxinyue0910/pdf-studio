@@ -1,0 +1,12 @@
+# Local Python environments and configuration
+.env/
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Documents and test output never belong in the repository
+*.pdf
+output/
+tmp/
