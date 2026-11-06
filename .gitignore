@@ -6,7 +6,8 @@ venv/
 __pycache__/
 *.py[cod]
 .DS_Store
-# Documents and test output never belong in the repository
+# Ignore PDF inputs and outputs except the bundled public sample
 *.pdf
+!/web/dist/studio-sample.pdf
 output/
 tmp/
